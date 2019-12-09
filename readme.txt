@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git push remote.
 Creating a new branch is quick and simple.
-remove haha
+merge dev branch
