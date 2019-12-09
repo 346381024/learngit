@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git push remote.
 Creating a new branch is quick and simple.
 merge dev branch
+add bug branch
